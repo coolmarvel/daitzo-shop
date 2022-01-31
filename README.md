@@ -1,4 +1,4 @@
-# daitzo-shopㅡ
+# daitzo-shop
 
 MERN(MongoDB Express React(EJS) NodeJS)
 nodejs mongodb로 만든 간단한 쇼핑몰
