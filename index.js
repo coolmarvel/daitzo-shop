@@ -29,6 +29,7 @@ var connect = mongoose.connect(
   { useNewUrlParser: true, useUnifiedTopology: true, useCreateIndex: true }
 );
 
+// heroku deploy
 var port = process.env.PORT || 3000;
 
 // 확장자가 ejs로 끝나는 뷰 엔진을 추가한다.
