@@ -2,7 +2,7 @@
 # 프로젝트 작명소 팀
 
 ### 팀장 : 이성현 <a href="https://github.com/Mr-butter"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>
-### 팀원 : 김현호 <a href="https://github.com/Hyerin1208"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://plastic-yuzu-23a.notion.site/P2E-f7e3bc28fe3d4a919c706bdeecc407fe"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a> , 박해민 <a href="https://github.com/euphratesriver0216"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://saranghaeo.tistory.com/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>, 이민주 <a href="https://github.com/codecocosl"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> <a href="https://saranghaeo.tistory.com/"><img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=Notion&logoColor=white"/></a>
+### 팀원 : 김현호 <a href="https://github.com/Hyerin1208"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> , 박해민 <a href="https://github.com/euphratesriver0216"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>, 이민주 <a href="https://github.com/codecocosl"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a> 
 ---------------------------------------
 ## DAITZOSHOP
 https://daitzoshop.herokuapp.com/
